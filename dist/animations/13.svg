@@ -2,5 +2,5 @@
 <rect width="800" height="400" fill="#18324a"/><line x1="40" y1="345" x2="760" y2="345" stroke="#608398" stroke-width="3" stroke-linecap="round"/>
 <circle cx="156" cy="273" r="34" fill="#a9c8da"/><line x1="190" y1="290" x2="485" y2="292" stroke="#a9c8da" stroke-width="55" stroke-linecap="round"/>
 <line x1="470" y1="293" x2="660" y2="319" stroke="#a9c8da" stroke-width="30" stroke-linecap="round"/><line x1="470" y1="305" x2="650" y2="331" stroke="#a9c8da" stroke-width="24" stroke-linecap="round"/>
-<line x1="270" y1="312" x2="195" y2="332" stroke="#a9c8da" stroke-width="16" stroke-linecap="round"/><text x="34" y="50" fill="#c6f073" font-family="Arial,sans-serif" font-weight="700" font-size="24" letter-spacing="2">MINUTA SPOKOJNEGO ODPOCZYNKU</text>
+<line x1="270" y1="312" x2="195" y2="332" stroke="#a9c8da" stroke-width="16" stroke-linecap="round"/>
 </svg>

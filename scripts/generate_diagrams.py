@@ -19,7 +19,8 @@ def circle(x, y, radius, color=BODY):
 
 
 def label(txt, x=34, y=50):
-    return f'<text x="{x}" y="{y}" fill="{ACTIVE}" font-family="Arial,sans-serif" font-weight="700" font-size="24" letter-spacing="2">{txt}</text>'
+    # Captions live in HTML so a left-leg mirror never reverses written text.
+    return ''
 
 
 def common_scene():
